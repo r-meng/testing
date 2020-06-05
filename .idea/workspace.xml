@@ -1,9 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50763cc2-4e97-46c7-bbe7-a5dbda36cd9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/integrations.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/__tests__/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CommentList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__tests__/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__tests__/CommentBox.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__tests__/CommentList.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/requireAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middlewares/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middlewares/stateSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middlewares/stateValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/__tests__/comments.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ch23uZTPvLy89wIl9I9MjWhftJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50763cc2-4e97-46c7-bbe7-a5dbda36cd9e" name="Default Changelist" comment="" />
+      <created>1590966308753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590966308753</updated>
+      <workItem from="1590966310056" duration="9642000" />
+      <workItem from="1591034650571" duration="11932000" />
+      <workItem from="1591121553887" duration="13601000" />
+      <workItem from="1591207711461" duration="13773000" />
+      <workItem from="1591293664983" duration="12346000" />
+      <workItem from="1591395284609" duration="873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/App.js" />
+        <option value="$PROJECT_DIR$/src/components/CommentBox.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591039341188">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="521" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960/3000.901.1920.1040@0.0.1500.960" timestamp="1591039341188" />
+    <state x="481" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590970708553">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="230" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1500.960/3000.901.1920.1040@0.0.1500.960" timestamp="1590970708553" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1591229564492">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1500.960/3000.901.1920.1040@0.0.1500.960" timestamp="1591229564492" />
   </component>
 </project>
